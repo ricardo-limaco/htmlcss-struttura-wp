@@ -38,20 +38,18 @@ footer .container {
 }
 
 
-
 .container-4 {
-    height: 440px;   
-    margin-top: 20px;
+    height: 400px;   
 }
 
-.c-up {
+.container-up {
     height: 50px;
     margin-top: 20px;
 }
 
 
 .columns-3 {
-    height: calc(440px - 80px);
+    height: calc(400px - 30px);
 }
 
 .float-left {
